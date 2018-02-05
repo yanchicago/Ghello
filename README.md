@@ -1,2 +1,2 @@
 # Ghello
-The repository is for testing
+The repository is for testing purpose. 
